@@ -1,4 +1,4 @@
-# ReactorScript
+# reactorscript
 
 **The Reactor Script by Deep3D**
 *mIRC Enhanced*
